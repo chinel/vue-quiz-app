@@ -1,14 +1,24 @@
-# vue-quiz
+# Quiz Application
 
-This template should help get you started developing with Vue 3 in Vite.
+A Mini Quiz application built with Vue 3 and Vite.
 
-## Recommended IDE Setup
+### [Live Site](https://vue-quiz-app.onrender.com/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![Quiz Application Questions](https://i.imgur.com/niXT8JW.png)
 
-## Customize configuration
+![Quiz Application Result](https://i.imgur.com/dXaVcnU.png)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+### Technologies used
+
+- Vue
+- Vite
+
+
+### Workflow process
+
+![Workflow Process](https://i.imgur.com/CCgWbfg.png)
+
 
 ## Project Setup
 
