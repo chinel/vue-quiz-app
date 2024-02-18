@@ -1,8 +1,8 @@
 <template>
    <div class="result">
-        <div class="title">{{ result[resultIndex].title }}</div>
+        <div class="title">{{ results[resultIndex].title }}</div>
         <div class="desc">
-            {{ result[resultIndex].desc }}
+            {{ results[resultIndex].desc }}
         </div>
     </div>
 </template>
@@ -20,7 +20,7 @@
                         i = index;
                     }
                 });
-                return index;
+                return i;
             }
         }
     }
