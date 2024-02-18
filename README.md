@@ -6,7 +6,7 @@ A Mini Quiz application built with Vue 3 and Vite.
 
 ![Quiz Application Questions](https://i.imgur.com/niXT8JW.png)
 
-![Quiz Application Result](https://i.imgur.com/dXaVcnU.png)
+![Quiz Application Result](https://i.imgur.com/aFtVW9Z.png)
 
 
 ### Technologies used
